@@ -7,7 +7,7 @@
 - Desde el menú de Android, haz clic en File > New > Import Project.
 - Como opción, en la pantalla de bienvenida, haz clic en Import project (Eclipse ADT, Gradle, etc.).
 ```
-### Using Git
+### Usando Git
 ```
 - Inicia Android Studio y cierra los proyectos de Android Studio abiertos.
 - En Android Studio -> File -> New -> Import Project and will do the remaining
