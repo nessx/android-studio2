@@ -15,7 +15,7 @@
 ```
 
 # Legal
-### License
+### Licencia
 Leepper.inc - nessx
 
 Copyright (C) 2020-2025 
