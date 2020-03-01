@@ -1,7 +1,7 @@
 # Leepper.inc
 # By Nestor Santana
 
-### Descarga e instalación manual
+### Descarga e instalación
 ```
 - Inicia Android Studio y cierra los proyectos de Android Studio abiertos.
 - Desde el menú de Android, haz clic en File > New > Import Project.
