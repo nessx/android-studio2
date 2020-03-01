@@ -75,6 +75,7 @@ public class modname extends AppCompatActivity {
                                     dialog.cancel();
                                 }
                             }).create().show();
+                    nom.setHint("Nombre actual");
                     Log.d("PRUEBA", "Esta es la prueba "+array_noms[0]);
                 }
                 else {
