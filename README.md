@@ -1,5 +1,5 @@
 # Leepper.inc
-# by nessx
+# By Nestor Santana
 
 ### Descarga e instalación manual
 ```
