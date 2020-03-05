@@ -13,8 +13,13 @@
 - En Android Studio -> File -> New -> Import Project and will do the remaining
 - Como opción, en la pantalla de bienvenida, haz clic en Import project (Eclipse ADT, Gradle, etc.).
 ```
-
+### Acceso
+```
+-Usuario: admin
+-Contraseña: 1234
+```
 # Legal
+
 ### Licencia
 Leepper.inc - nessx
 
